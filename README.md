@@ -1,2 +1,0 @@
-# Kauany
-Meu trabalho final
